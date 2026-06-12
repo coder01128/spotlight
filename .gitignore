@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+media/
+outputs/
+*.mp4
+*.mp3
+New Text Document.txt
